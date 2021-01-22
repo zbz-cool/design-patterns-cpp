@@ -1,3 +1,7 @@
+## 中文参考资料
+
+[runoob 设计模式教程](https://www.runoob.com/design-pattern/design-pattern-tutorial.html)
+
 ## C++ Design Patterns
 
 Software design patterns are general reusable solutions to problems which occur
@@ -10,29 +14,29 @@ objects).
 
 #### Creational Patterns 
 - [Abstract Factory], families of product objects
-- [Builder], how a composite object gets created
+- [X] [Builder], how a composite object gets created (略懂)
 - [Factory Method], subclass of object that is instantiated
-- [Prototype], class of object that is instantiated
-- [Singleton], the sole instance of a class 
+- [X] [Prototype], class of object that is instantiated (略懂)
+- [X] [Singleton], the sole instance of a class 
 #### Structural Patterns
 - [Adapter], interface to an object
-- [Bridge], implementation of an object 
+- [X] [Bridge], implementation of an object 
 - [Composite], structure and composition of an object
-- [Decorator], responsibilities of an object without subclassing
+- [X] [Decorator], responsibilities of an object without subclassing
 - [Façade], interface to a subsystem
 - [Flyweight], storage costs of objects
-- [Proxy], how an object is accessed (its location)
+- [X] [Proxy], how an object is accessed (its location)
 #### Behavioral Patterns
 - [Chain of Responsibility], object that can fulfill a request
-- [Command], when and how a request is fulfilled
+- [X] [Command], when and how a request is fulfilled (略懂)
 - [Interpreter], grammar and interpretation of a language
 - [Iterator], how an aggregate's elements are accessed
 - [Mediator], how and which objects interact with each other
-- [Memento], what private information is stored outside an object, and when 
-- [Observer], how the dependent objects stay up to date
-- [State], states of an object
-- [Strategy], an algorithm
-- [Template Method], steps of an algorithm
+- [X] [Memento], what private information is stored outside an object, and when (不常用)
+- [X] [Observer], how the dependent objects stay up to date
+- [X] [State], states of an object
+- [X] [Strategy], an algorithm
+- [X] [Template Method], steps of an algorithm
 - [Visitor], operations that can be applied to objects without changing their classes
 
 ### Other Languages
@@ -80,3 +84,4 @@ Design patterns in this repository are based on
 [Strategy]: https://github.com/JakubVojvoda/design-patterns-cpp/tree/master/strategy
 [Template Method]: https://github.com/JakubVojvoda/design-patterns-cpp/tree/master/template-method
 [Visitor]: https://github.com/JakubVojvoda/design-patterns-cpp/tree/master/visitor
+git sta

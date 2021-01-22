@@ -1,4 +1,4 @@
-## Builder
+## Builder (建造者模式)
 
 Builder pattern has creational purpose and separates the construction of a complex object 
 from its representation so that the same construction process can create different 
@@ -10,3 +10,7 @@ objects requires more domain knowledge of the client than using a Factory.
 
 * the algorithm for creating a object should be independent of the parts and how they're assembled
 * the construction process must allow different representations for the object that's constructed  
+
+### 参考链接
+
+<https://www.jianshu.com/p/e2a2fe3555b9>

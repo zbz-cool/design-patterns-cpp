@@ -1,4 +1,4 @@
-## Factory Method
+## Factory Method (工厂模式)
 
 Define an interface for creating an object, but let subclasses decide which class to instantiate. 
 Factory Method lets a class defer instantiation to subclasses. The pattern has creational purpose

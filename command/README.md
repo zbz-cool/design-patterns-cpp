@@ -1,4 +1,4 @@
-## Command
+## Command (命令模式)
 
 Command pattern encapsulates a request as an object, thereby letting you parameterize
 clients with different requests, queue or log requests, and supports undoable

@@ -1,4 +1,4 @@
-## Visitor
+## Visitor (访问者模式)
 
 Visitor represents an operation to be performed on the elements of an object
 structure. It lets you define a new operation without changing the classes of 
